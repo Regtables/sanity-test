@@ -1,9 +1,9 @@
-import { MdTitle } from 'react-icons/md'
+import { MdTitle, BsFillFilePostFill } from 'react-icons/md'
 
 export default {
   name: 'posts',
   title: 'Posts',
-  icon: MdTitle,
+  icon: BsFillFilePostFill,
   type: 'document',
   fields: [
     {
